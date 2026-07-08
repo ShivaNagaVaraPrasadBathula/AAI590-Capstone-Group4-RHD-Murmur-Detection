@@ -1,4 +1,4 @@
-# AAI590 Capstone — Group 4
+# AAI-590 Capstone — Group 4
 ## ML-Based Murmur Detection for Rheumatic Heart Disease Screening
 
 **Authors**: Shiva Naga Vara Prasad Bathula · Kaushik M · Pavan Kumar Bellary
