@@ -1,0 +1,4 @@
+Model,AUC-ROC,Sensitivity,Specificity,F1-Score,Features,Threshold
+Baseline XGBoost,0.5960989998437256,0.4715,0.6389,0.5120,33,0.50
+Tuned XGBoost,0.5808524769495234,0.9873,0.0432,0.6652,59,0.10
+Target (Screening),≥ 0.75,≥ 0.80,≥ 0.60,—,—,optimised
