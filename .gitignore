@@ -1,0 +1,17 @@
+# Audio files — too large for GitHub, download from PhysioNet
+*.wav
+*.mp3
+*.flac
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Large model outputs
+*.pkl
+*.joblib
+*.h5
+
+# System
+.DS_Store
