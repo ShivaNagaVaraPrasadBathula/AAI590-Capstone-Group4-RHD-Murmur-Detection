@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AAI590 Capstone — Group 4
 ## ML-Based Murmur Detection for Rheumatic Heart Disease Screening
 
@@ -72,3 +73,7 @@ acoustic criteria to ensure clinical plausibility.
 - Reyna et al. (2022). Heart Murmur Detection from Phonocardiogram Recordings: The George B. Moody PhysioNet Challenge 2022. *CinC 2022*.
 - Watkins et al. (2017). Global, Regional, and National Burden of RHD 1990–2015. *NEJM*. https://doi.org/10.1056/NEJMoa1603693
 - Chen & Guestrin (2016). XGBoost: A Scalable Tree Boosting System. *KDD 2016*.
+=======
+# AAI590-Capstone-Group4-RHD-Murmur-Detection
+AAI590 Capstone Group 4 — ML-Based Murmur Detection for RHD Screening (USD 2026)
+>>>>>>> 7a406c3c5e9fe2729604f77632b2f7ed47633516
